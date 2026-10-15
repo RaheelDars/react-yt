@@ -1,0 +1,11 @@
+.card{
+  padding: 20px;
+  margin: 20px;
+  background-color: pink;
+  border-radius: 10px;
+}
+.navbar{
+  background-color: lightblue;
+  padding: 20px;
+  margin: 5px;
+}
