@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    background: #000;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+button{
+    padding: 15px 30px;
+    margin: 30px;
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+}
+h1{
+    background-color: gainsboro;
+    width: fit-content;
+    font-size: 100px;
+    padding: 10px 80px;
+    margin: 30px;
+    border-radius: 5px;
+}
